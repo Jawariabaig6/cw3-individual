@@ -14,7 +14,9 @@
 </template>
 
 <script>
+
 export default {
+    // Adding props
   name: "CheckoutList",
   props: ["product" ,"index"],
   methods: {

@@ -75,7 +75,7 @@
     <main>
       <div v-if="checkSearchBar">
         <div v-for="(products, index) in ProductList" :key="index">
-          <!-- classes information  -->
+          <!--Adding lessons component  -->
           <LessonList :products="products" :cart="cart" @addToCart="addToCart">
           </LessonList>
         </div>

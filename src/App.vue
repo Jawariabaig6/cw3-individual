@@ -224,12 +224,6 @@ export default {
 
     // Remove funtion
     remove(id,index) {
-      // let index;
-      // for (let i = 0; i < this.cart.length; i++) {
-      //   if (this.cart[i]["id"] === id) {
-      //     index = i;
-      //   }
-      // }
       this.cart.splice(index, 1);
 
       for (let i = 0; i < this.products.length; i++) {

@@ -204,12 +204,7 @@ export default {
           });
       });
     },
-    // addToCart: function () {
-    //   if (this.products.spaces > 0) {
-    //     this.products.spaces -= 1; // confirm there are enough space left in class
-    //     this.cart.push(this.product.id);
-    //   }
-    // },
+   
     addToCart(product) {
       this.cart.push(product);
       product.space--;

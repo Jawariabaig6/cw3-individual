@@ -19,6 +19,7 @@
 export default {
     name: "LessonList",
     props:
+    // Adding props
      [
         "products",
         "cart"

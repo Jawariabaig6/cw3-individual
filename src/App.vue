@@ -128,7 +128,7 @@
 
 <script>
 /* eslint-disable */
-
+// components added 
 import LessonList from "./components/Lesson.vue";
 import CheckoutList from "./components/Checkout.vue";
 

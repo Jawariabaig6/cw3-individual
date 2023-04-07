@@ -1,6 +1,6 @@
-Github Repo: https://github.com/Jawariabaig6/cw3-individual
-
 # cw3-individual
+
+Github Repo: https://github.com/Jawariabaig6/cw3-individual
 
 ## Project setup
 ```
